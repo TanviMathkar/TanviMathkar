@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanviMathkar a Software Engineer at Smartstatz Solution LLP working on Mircosoft Dynamics 365 applications
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning dart and creating apps on android studio
+- 🌱 I’m currently learning dart,canvas apps,power apps and also learning how to create apps on android studio
 - 💞️ I’m looking to collaborate on flutter...
 - 📫 How to reach me 9137863099..
 
